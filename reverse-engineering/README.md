@@ -1,0 +1,1 @@
+study these scripts to see how scripts with different paradigms but the same behavior will look different.  then reverse-engineer the code to make these scripts work
